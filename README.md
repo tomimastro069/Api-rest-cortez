@@ -113,7 +113,7 @@ Utilizar herramientas modernas para facilitar pruebas y mantenimiento del backen
 
 👤 Autor
 Nombre: Tomás Mastropietro
-Legajo: (completar)
+Legajo: 52695
 
 
 
